@@ -52,6 +52,7 @@ export default class RefreshLoad extends React.Component {
                         }
                     </div>
                 </Refresh>
+
             </div>
         );
     }
